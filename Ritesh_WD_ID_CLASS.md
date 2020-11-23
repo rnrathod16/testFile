@@ -1,17 +1,17 @@
-# ***Hello Everyone , Welcome*** :smile:
+# ***Hello Everyone , Welcome*** :heart_eyes:
 
 
 
-# **I am ***Ritesh Rathod*****
+# **I am ***Ritesh Rathod***** :wink:
 ## My Social Handel :star:  [Linkedin](https://www.linkedin.com/in/ritesh-rathod-26054a183/) :star:
 
 <br>
 
-## Topic :- So Today we will be taking an overview of ***ID*** and ***Class Selectors***
+## Topic :- :pencil2: So Today we will be taking an overview of ***ID*** and ***Class Selectors*** :pencil2:
 
 <br>
 
-# ***ID Selector*** 
+# ***ID Selector*** :paperclip:
 
 
 - ID Selector is used to select element with the **unique** ID name that is having the ID attribute
