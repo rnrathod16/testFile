@@ -45,7 +45,7 @@ This will make the Paragraph tag text color to green
 
 <br> 
 
-**[Ritesh_Code](Code\Ritesh_WD_ID_Code.md)
+**[Ritesh_Code](Code/Ritesh_WD_ID_Code.md)
 You can check the code in here**
 
 <br>
