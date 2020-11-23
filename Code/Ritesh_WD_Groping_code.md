@@ -1,6 +1,6 @@
-# ***Grouping Code***
+# :computer:***Grouping Code***:computer:
 
-## Case 1  Without Grouping
+## Case 1  Without Grouping :heavy_check_mark:
 
 ```html
 <!DOCTYPE html>
@@ -40,18 +40,18 @@
 </html>
 ```
 
-## OUTPUT
+## OUTPUT:open_mouth:
 
 <br>
 
-<img src="grouping_1.png" width="500px" height="150px">
+<img src="../Images/grouping_1.png" width="500px" height="150px">
 
 <br>
 <br>
 <br>
 
 
-## Case 2 With Grouping
+## Case 2 With Grouping :cyclone:
 
 ```html
 <!DOCTYPE html>
@@ -83,11 +83,11 @@
 </html>
 ```
 
-## OUTPUT
+## OUTPUT :walking:
 
 <br>
 
-<img src="grouping_2.png" width="500px" height="150px">
+<img src="../Images/grouping_2.png" width="500px" height="150px">
 
 <br>
 <br>
@@ -95,11 +95,11 @@
 <br>
 
 
-# ***Universal Selector Code***
+# :pager:***Universal Selector Code***:pager:
 
 <br>
 
-## Case 1  Selecting All Elements
+## Case 1  Selecting All Elements :turtle:
 
 ```html
 <!DOCTYPE html>
@@ -130,12 +130,12 @@
 ```
 <br>
 
-## OUTPUT
+## OUTPUT :open_mouth:
 
 
 <br>
 
-<img src="universal_1.png" width="500px" height="150px">
+<img src="../Images/universal_1.png" width="500px" height="150px">
 
 <br>
 <br>
@@ -144,7 +144,7 @@
 
 <br>
 
-## Case 2  Selecting All DIV Elements
+## Case 2  Selecting All DIV Elements :lock:
 
 ```html
 <!DOCTYPE html>
@@ -181,11 +181,11 @@
 ```
 <br>
 
-## OUTPUT
+## OUTPUT :hushed:
 
 <br>
 
-<img src="universal_2.png" width="500px" height="150px">
+<img src="../Images/universal_2.png" width="500px" height="150px">
 
 <br>
 <br>
@@ -193,5 +193,5 @@
 
 <br>
 
-## ***Thank You For Reading***
+## ***Thank You For Reading*** :innocent:
 ## ***Hope You Enjoyed it !!!***
