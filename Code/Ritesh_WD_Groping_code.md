@@ -47,7 +47,9 @@
 <img src="../Images/grouping_1.png" width="500px" height="150px">
 
 <br>
-<br>
+
+**Click me to visit Theory File [Ritesh_WD_Grouping](../Ritesh_WD_Grouping)**
+
 <br>
 
 
