@@ -52,9 +52,9 @@ You can check the code in here** :link:
 
 <br>
 
-## **Case 2**
+## **Case 2** :open_mouth:
 
-## **What if we put same ID for different tags ??** 
+## **What if we put same ID for different tags ??** :no_mouth:
 
 <br>
 
@@ -81,28 +81,28 @@ Then if I want to change ' my name is ' to ' Ritesh ' then I will write an scrip
   document.getElementById('change').innerHTML = "Ritesh";
 </script>
 ```
-Then in this case it will change the first ID tag not the second one 
+Then in this case it will change the first ID tag not the second one  :punch:
 
 <br>
 
-**[Ritesh_Code](D:\Open_Source\Ritesh_WD_ID_Code.md)
-You can check the code in here**
+**[Ritesh_Code](Code/Ritesh_WD_ID_Code.md)
+You can check the code in here** :link:
 
 <br>
 <br>
 <br>
 
-## *Now Let's Take a look on*
+## *Now Let's Take a look on* :hushed:
 
 <br>
 
-# ***Class Selector***
+# ***Class Selector*** :snowman:
 
-- Class selector are used when we want to style more that one object
-- Multiple elements in the document can have same class
-- A single element can also have multiple class seperated by space
-- Class selector can start with letter , (-)Hyphen or ( _ ) underscore
-- We define the class selector in CSS document by ( . ) followed by name
+- Class selector are used when we want to style more that one object :cyclone:
+- Multiple elements in the document can have same class :mega:
+- A single element can also have multiple class seperated by space :loop:
+- Class selector can start with letter , (-)Hyphen or ( _ ) underscore :flushed:
+- We define the class selector in CSS document by ( . ) followed by name :zap:
 
 <br>
 
@@ -123,7 +123,7 @@ To style this in CSS we write :pencil2:
     color:red;
 }
 ```
-Then it will change the text color to Red
+Then it will change the text color to Red :rose:
 
 
 
@@ -131,14 +131,14 @@ We can also give same class name to different tags it will change their color to
 
 <br>
 
-**[Ritesh_Code](D:\Open_Source\Ritesh_WD_ID_Code.md)
-You can check the code in here**
+**[Ritesh_Code](Code/Ritesh_WD_ID_Code.md)
+You can check the code in here** :link:
 
 <br>
 <br>
 
-## **Case 2**
-We can also make it like only specific element should be affected by class
+## **Case 2** :grinning:
+We can also make it like only specific element should be affected by class :confused:
 
 **For ex :-**
 
@@ -157,19 +157,19 @@ p.blue{
     color:blue;
 }
 ```
-This will only make the text of Paragraph tag as blue
+This will only make the text of Paragraph tag as blue :sunglasses:
 
 <br>
 
-**[Ritesh_Code](D:\Open_Source\Ritesh_WD_ID_Code.md)
-You can check the code in here**
+**[Ritesh_Code](Code/Ritesh_WD_ID_Code.md)
+You can check the code in here** :link:
 
 <br>
 <br>
 
-## **Case 3**
+## **Case 3** :tada:
 
-Now we will learn to use multiple class for same tag
+Now we will learn to use multiple class for same tag :volcano:
 
 **For ex :-**
 
@@ -197,15 +197,15 @@ The Result of this will change the color and size of the P tag
 
 <br>
 
-**[Ritesh_Code](D:\Open_Source\Ritesh_WD_ID_Code.md)
-You can check the code in here**
+**[Ritesh_Code](Code/Ritesh_WD_ID_Code.md)
+You can check the code in here** :link:
 
 <br>
 
 <br>
 
-## ***Thank You For Reading***
-## ***Hope You Enjoyed it !!!***
+## ***Thank You For Reading***:innocent:
+## ***Hope You Enjoyed it*** :bangbang:
 
 
 
