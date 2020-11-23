@@ -33,9 +33,9 @@ use of Id Selector :pencil2:
 <img src="../Images/id_selector_1.png" width="500px" height="150px">
 
 <br>
-<br>
 
-[Ritesh_WD_ID_CLASS](../Ritesh_WD_ID_CLASS.md)
+
+**[Ritesh_WD_ID_CLASS](../Ritesh_WD_ID_CLASS.md) Link to Theory File**
 
 - ## Case 2 :pushpin:
 
