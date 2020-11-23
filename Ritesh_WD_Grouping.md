@@ -7,7 +7,7 @@
 
 <br>
 
-## Topic :- So Here we will be taking an overview of ***Grouping*** and ***Universal Selector*** :heavy_check_mark:
+## Topic :- :heavy_check_mark: So Here we will be taking an overview of ***Grouping*** and ***Universal Selector*** :heavy_check_mark:
 
 <br>
 
