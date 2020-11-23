@@ -1,31 +1,31 @@
-# ***Hello Everyone , Welcome*** 
+# ***Hello Everyone , Welcome*** :house:
 
-:smile:
+<brr>
 
-# **I am ***Ritesh Rathod*****
-## My Social Handel 
-
-<br>
-
-## Topic :- So Here we will be taking an overview of ***Grouping*** and ***Universal Selector***
+# **I am ***Ritesh Rathod***** :wink:
+## My Social Handel :star:[Linkedin](https://www.linkedin.com/in/ritesh-rathod-26054a183/) :star:
 
 <br>
 
-# ***Grouping*** 
-
-- So we use Grouping when we have to set same style for different elements
-- we can group all the selectors and can write styling code for all at once
-- It can be grouping of different classes or Tags or all together
-- It reduces time requried to set the style 
-- It reduces the Code redundancy
-- With the use of grouping the code becomes Concise
-- With grouping it is easy to debug the code in case of Error
+## Topic :- So Here we will be taking an overview of ***Grouping*** and ***Universal Selector*** :heavy_check_mark:
 
 <br>
 
-**For ex :-**
+# :computer: ***Grouping*** :computer:
 
-If we have code like this
+- So we use Grouping when we have to set same style for different elements :zap:
+- we can group all the selectors and can write styling code for all at once :key:
+- It can be grouping of different classes or Tags or all together:bell:
+- It reduces time requried to set the style :mag:
+- It reduces the Code redundancy:wind_chime:
+- With the use of grouping the code becomes Concise:feet:
+- With grouping it is easy to debug the code in case of Error:gun:
+
+<br>
+
+**For ex :-** :hushed:
+
+If we have code like this :pencil2:
 
 ```css
 h1{
@@ -42,9 +42,9 @@ h2{
 ```
 In this we can see that we have to change the color of 3 different elements to green so why to write the code for all the elements seperately simply we can do this by Grouping
 
-To group them together we have to write all of them seperated by Comma
+To group them together we have to write all of them seperated by Comma :walking:
 
-This is simplified code
+This is simplified code :pencil2:
 
 ```css
 h1, .text, h2{
@@ -53,32 +53,32 @@ h1, .text, h2{
 ```
 It will work as  same as written above just to reduce the code we can write it in this format also
 
-There is no condition for how the elements should be grouped we can group all the classes , ID's and tags all together
+There is no condition for how the elements should be grouped we can group all the classes , ID's and tags all together :heavy_check_mark:
 
 
-**[Ritesh_Code](D:\Open_Source\Ritesh_WD_Grouping_code.md)
-You can check the code in here**
+**[Ritesh_Code](Code/Ritesh_WD_Grouping_code.md)
+You can check the code in here** :link:
 
 
 <br>
 <br>
 <br>
 
-# ***Universal Selector*** 
+# :floppy_disk:***Universal Selector*** :floppy_disk:
 
-- Universal Selector is used to select all the type of elements
-- Universal Selector can be used to set same value to the elements 
-- An Asterisk **(*)** is used to denote the Universal Selector
-- The Universal Selctor is Capable of Selecting all the elements inside another elements also
-- It is like an Wildcard which matches all the elements
+- Universal Selector is used to select all the type of elements:hammer:
+- Universal Selector can be used to set same value to the elements :lock:
+- An Asterisk **(*)** is used to denote the Universal Selector :dollar:
+- The Universal Selctor is Capable of Selecting all the elements inside another elements also :bicyclist:
+- It is like an Wildcard which matches all the elements :golf:
 
 <br>
 
-**For ex :-**
+**For ex :-**:hushed:
 
 If we want to set the color for all the elements to blue so writing code for all elements will not be an good idea so in this case we can make use of Universal Selector.
 
-we can write it like this
+we can write it like this :pencil2:
 
 ```css
 * {
@@ -86,18 +86,18 @@ we can write it like this
 }
 ```
 
-It will Select all the elements and will change their text color to blue.
+It will Select all the elements and will change their text color to blue.:heavy_check_mark:
 
 <br>
 
-**[Ritesh_Code](D:\Open_Source\Ritesh_WD_Grouping_code.md)
-You can check the code in here**
+**[Ritesh_Code](Code/Ritesh_WD_Grouping_code.md)
+You can check the code in here** :link:
 
 <br>
 
-We can also select all the div tags and color all the elements inside it using the Universal Selector 
+We can also select all the div tags and color all the elements inside it using the Universal Selector  :pencil2:
 
-**For ex :-**
+**For ex :-**:hushed:
 
 ```css
 div *{
@@ -109,8 +109,8 @@ This will change all the elements of div and color them as mentioned
 
 <br>
 
-**[Ritesh_Code](D:\Open_Source\Ritesh_WD_Grouping_code.md)
-You can check the code in here**
+**[Ritesh_Code](Code/Ritesh_WD_Grouping_code.md)
+You can check the code in here** :link:
 
 
 <br>
@@ -119,5 +119,5 @@ You can check the code in here**
 
 
 
-## ***Thank You For Reading***
+## ***Thank You For Reading*** :innocent:
 ## ***Hope You Enjoyed it !!!***
