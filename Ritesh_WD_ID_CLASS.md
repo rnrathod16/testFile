@@ -11,7 +11,7 @@
 
 <br>
 
-# ***ID Selector*** :wrench:
+# :wrench: ***ID Selector*** :wrench:
 
 
 - ID Selector is used to select element with the **unique** ID name that is having the ID attribute :ship:
@@ -96,7 +96,7 @@ You can check the code in here** :link:
 
 <br>
 
-# ***Class Selector*** :snowman:
+# :snowman:***Class Selector*** :snowman:
 
 - Class selector are used when we want to style more that one object :cyclone:
 - Multiple elements in the document can have same class :mega:
