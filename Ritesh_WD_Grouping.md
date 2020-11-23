@@ -109,7 +109,7 @@ This will change all the elements of div and color them as mentioned
 
 <br>
 
-**[Ritesh_Code](Code/Ritesh_WD_Grouping_code.md)
+**[Ritesh_Code](Code/Ritesh_WD_Groping_code.md)
 You can check the code in here** :link:
 
 
