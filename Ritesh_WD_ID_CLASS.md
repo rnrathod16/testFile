@@ -1,6 +1,6 @@
-# ***Hello Everyone , Welcome*** 
+# ***Hello Everyone , Welcome*** :smile:
 
-:smile:
+
 
 # **I am ***Ritesh Rathod*****
 ## My Social Handel :star:  [Linkedin](https://www.linkedin.com/in/ritesh-rathod-26054a183/) :star:
