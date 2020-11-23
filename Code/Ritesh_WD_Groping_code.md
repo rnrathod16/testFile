@@ -92,8 +92,9 @@
 <img src="../Images/grouping_2.png" width="500px" height="150px">
 
 <br>
-<br>
-<br>
+
+**Click me to visit Theory File [Ritesh_WD_Grouping](../Ritesh_WD_Grouping.md)**
+
 <br>
 
 
@@ -140,9 +141,8 @@
 <img src="../Images/universal_1.png" width="500px" height="150px">
 
 <br>
-<br>
-<br>
-<br>
+
+**Click me to visit Theory File [Ritesh_WD_Grouping](../Ritesh_WD_Grouping.md)**
 
 <br>
 
@@ -190,9 +190,10 @@
 <img src="../Images/universal_2.png" width="500px" height="200px">
 
 <br>
-<br>
-<br>
 
+**Click me to visit Theory File [Ritesh_WD_Grouping](../Ritesh_WD_Grouping.md)**
+
+<br>
 <br>
 
 ## ***Thank You For Reading*** :innocent:
