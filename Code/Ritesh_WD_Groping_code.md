@@ -185,7 +185,7 @@
 
 <br>
 
-<img src="../Images/universal_2.png" width="500px" height="150px">
+<img src="../Images/universal_2.png" width="500px" height="200px">
 
 <br>
 <br>
