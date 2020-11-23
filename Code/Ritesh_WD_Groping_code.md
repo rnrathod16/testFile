@@ -48,7 +48,7 @@
 
 <br>
 
-**Click me to visit Theory File [Ritesh_WD_Grouping](../Ritesh_WD_Grouping)**
+**Click me to visit Theory File [Ritesh_WD_Grouping](../Ritesh_WD_Grouping.md)**
 
 <br>
 
