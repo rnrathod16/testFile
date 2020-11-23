@@ -1,7 +1,7 @@
-# ID Selector Code
+# ID Selector Code :computer:
 
-- ## Case 1
-use of Id Selector
+- ## Case 1 :pushpin:
+use of Id Selector :pencil2:
 
 ``` html
 <!DOCTYPE html>
@@ -30,7 +30,7 @@ use of Id Selector
 ## OUTPUT
 <br>
 
-<img src="id_selector_1.png" width="500px" height="150px">
+<img src="Image/id_selector_1.png" width="500px" height="150px">
 
 <br>
 <br>
