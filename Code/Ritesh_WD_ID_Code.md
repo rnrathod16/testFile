@@ -32,10 +32,10 @@ use of Id Selector :pencil2:
 
 <img src="../Images/id_selector_1.png" width="500px" height="150px">
 
-<br>
 
 
-**[Ritesh_WD_ID_CLASS](../Ritesh_WD_ID_CLASS.md) Link to Theory File**
+
+**Click me to visit Theory File [Ritesh_WD_ID_CLASS](../Ritesh_WD_ID_CLASS.md)**
 
 - ## Case 2 :pushpin:
 
@@ -75,10 +75,8 @@ Code when same ID is given to Different Tags :pencil2:
 <img src="../Images/id_selector_2.png" width="500px" height="150px">
 
 <br>
-<br>
-<br>
-<br>
-<br>
+
+**Click me to visit Theory File [Ritesh_WD_ID_CLASS](../Ritesh_WD_ID_CLASS.md)**
 
 # :star: Class Selector :star:
 
@@ -118,10 +116,8 @@ Code to Show how to use class :pencil2:
 <img src="../Images/class_selector_1.png" width="500px" height="150px">
 
 <br>
-<br>
-<br>
-<br>
-<br>
+
+**Click me to visit Theory File [Ritesh_WD_ID_CLASS](../Ritesh_WD_ID_CLASS.md)**
 
 - ## Case 2 :pushpin:
 
@@ -161,10 +157,8 @@ Code to make Changes to Specific element using class :pencil2:
 <img src="../Images/class_selector_2.png" width="500px" height="150px">
 
 <br>
-<br>
-<br>
-<br>
-<br>
+
+**Click me to visit Theory File [Ritesh_WD_ID_CLASS](../Ritesh_WD_ID_CLASS.md)**
 
 - ## Case 3 :pushpin:
 
@@ -207,9 +201,8 @@ Use of 2 different class for same tag :pencil2:
 <img src="../Images/class_selector_3.png" width="500px" height="150px">
 
 <br>
-<br>
-<br>
-<br>
+
+**Click me to visit Theory File [Ritesh_WD_ID_CLASS](../Ritesh_WD_ID_CLASS.md)**
 
 
 ## ***Thank You For Reading*** :innocent:
