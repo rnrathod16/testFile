@@ -3,7 +3,8 @@
 <br>
 
 # **I am ***Ritesh Rathod***** :wink:
-## My Social Handel :star:  [Linkedin](https://www.linkedin.com/in/ritesh-rathod-26054a183/) :star:
+### My Social Handel :star:  [Linkedin](https://www.linkedin.com/in/ritesh-rathod-26054a183/) :star:
+### You Can Contact me at rnrathod@mitaoe.ac.in
 
 <br>
 
