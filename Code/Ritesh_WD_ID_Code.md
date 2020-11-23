@@ -1,4 +1,4 @@
-# ID Selector Code :computer:
+# :computer: ID Selector Code :computer:
 
 - ## Case 1 :pushpin:
 use of Id Selector :pencil2:
@@ -27,18 +27,18 @@ use of Id Selector :pencil2:
 </body>
 </html>
 ```
-## OUTPUT
+## OUTPUT :open_mouth:
 <br>
 
-<img src="Image/id_selector_1.png" width="500px" height="150px">
+<img src="../Images/id_selector_1.png" width="500px" height="150px">
 
 <br>
 <br>
 <br>
 
-- ## Case 2
+- ## Case 2 :pushpin:
 
-Code when same ID is given to Different Tags
+Code when same ID is given to Different Tags :pencil2:
 
 ```html
 <!DOCTYPE html>
@@ -68,10 +68,10 @@ Code when same ID is given to Different Tags
 </html>
 ```
 
-## OUTPUT
+## OUTPUT :cyclone:
 <br>
 
-<img src="id_selector_2.png" width="500px" height="150px">
+<img src="../Images/id_selector_2.png" width="500px" height="150px">
 
 <br>
 <br>
@@ -79,11 +79,11 @@ Code when same ID is given to Different Tags
 <br>
 <br>
 
-# Class Selector
+# :star: Class Selector :star:
 
-- ## Case 1
+- ## Case 1 :pushpin:
 
-Code to Show how to use class
+Code to Show how to use class :pencil2:
 
 ```html
 <!DOCTYPE html>
@@ -111,10 +111,10 @@ Code to Show how to use class
 </html>
 ```
 
-## OUTPUT
+## OUTPUT :open_mouth:
 <br>
 
-<img src="class_selector_1.png" width="500px" height="150px">
+<img src="../Images/class_selector_1.png" width="500px" height="150px">
 
 <br>
 <br>
@@ -122,9 +122,9 @@ Code to Show how to use class
 <br>
 <br>
 
-- ## Case 2
+- ## Case 2 :pushpin:
 
-Code to make Changes to Specific element using class
+Code to make Changes to Specific element using class :pencil2:
 
 ```html
 <!DOCTYPE html>
@@ -153,7 +153,7 @@ Code to make Changes to Specific element using class
 </html>
 ```
 
-## OUTPUT
+## OUTPUT:hushed:
 
 <br>
 
@@ -165,9 +165,9 @@ Code to make Changes to Specific element using class
 <br>
 <br>
 
-- ## Case 3
+- ## Case 3 :pushpin:
 
-Use of 2 different class for same tag
+Use of 2 different class for same tag :pencil2:
 
 ```html
 <!DOCTYPE html>
@@ -199,7 +199,7 @@ Use of 2 different class for same tag
 </html>
 ```
 
-## OUTPUT
+## OUTPUT :smile:
 
 <br>
 
@@ -211,5 +211,5 @@ Use of 2 different class for same tag
 <br>
 
 
-## ***Thank You For Reading***
+## ***Thank You For Reading*** :innocent:
 ## ***Hope You Enjoyed it !!!***
