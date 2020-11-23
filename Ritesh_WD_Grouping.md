@@ -56,7 +56,7 @@ It will work as  same as written above just to reduce the code we can write it i
 There is no condition for how the elements should be grouped we can group all the classes , ID's and tags all together :heavy_check_mark:
 
 
-**[Ritesh_Code](Code/Ritesh_WD_Grouping_code.md)
+**[Ritesh_Code](Code/Ritesh_WD_Groping_code.md)
 You can check the code in here** :link:
 
 
@@ -90,7 +90,7 @@ It will Select all the elements and will change their text color to blue.:heavy_
 
 <br>
 
-**[Ritesh_Code](Code/Ritesh_WD_Grouping_code.md)
+**[Ritesh_Code](Code/Ritesh_WD_Groping_code.md)
 You can check the code in here** :link:
 
 <br>
