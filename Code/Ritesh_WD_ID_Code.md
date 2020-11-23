@@ -37,6 +37,9 @@ use of Id Selector :pencil2:
 
 **Click me to visit Theory File [Ritesh_WD_ID_CLASS](../Ritesh_WD_ID_CLASS.md)**
 
+<br>
+
+
 - ## Case 2 :pushpin:
 
 Code when same ID is given to Different Tags :pencil2:
@@ -77,6 +80,8 @@ Code when same ID is given to Different Tags :pencil2:
 <br>
 
 **Click me to visit Theory File [Ritesh_WD_ID_CLASS](../Ritesh_WD_ID_CLASS.md)**
+
+<br>
 
 # :star: Class Selector :star:
 
@@ -119,6 +124,8 @@ Code to Show how to use class :pencil2:
 
 **Click me to visit Theory File [Ritesh_WD_ID_CLASS](../Ritesh_WD_ID_CLASS.md)**
 
+<br>
+
 - ## Case 2 :pushpin:
 
 Code to make Changes to Specific element using class :pencil2:
@@ -159,6 +166,8 @@ Code to make Changes to Specific element using class :pencil2:
 <br>
 
 **Click me to visit Theory File [Ritesh_WD_ID_CLASS](../Ritesh_WD_ID_CLASS.md)**
+
+<br>
 
 - ## Case 3 :pushpin:
 
@@ -203,6 +212,10 @@ Use of 2 different class for same tag :pencil2:
 <br>
 
 **Click me to visit Theory File [Ritesh_WD_ID_CLASS](../Ritesh_WD_ID_CLASS.md)**
+
+<br>
+
+<br>
 
 
 ## ***Thank You For Reading*** :innocent:
