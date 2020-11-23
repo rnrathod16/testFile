@@ -157,7 +157,7 @@ Code to make Changes to Specific element using class :pencil2:
 
 <br>
 
-<img src="class_selector_2.png" width="500px" height="150px">
+<img src="../Images/class_selector_2.png" width="500px" height="150px">
 
 <br>
 <br>
@@ -203,7 +203,7 @@ Use of 2 different class for same tag :pencil2:
 
 <br>
 
-<img src="class_selector_3.png" width="500px" height="150px">
+<img src="../Images/class_selector_3.png" width="500px" height="150px">
 
 <br>
 <br>
