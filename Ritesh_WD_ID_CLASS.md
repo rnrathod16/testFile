@@ -1,6 +1,6 @@
 # ***Hello Everyone , Welcome*** :heart_eyes:
 
-
+<br>
 
 # **I am ***Ritesh Rathod***** :wink:
 ## My Social Handel :star:  [Linkedin](https://www.linkedin.com/in/ritesh-rathod-26054a183/) :star:
@@ -11,21 +11,21 @@
 
 <br>
 
-# ***ID Selector*** :paperclip:
+# ***ID Selector*** :wrench:
 
 
-- ID Selector is used to select element with the **unique** ID name that is having the ID attribute
-- The ID selector uses the ID attribute in tag to select a specific element
-- ID name should not be repeated in the document
+- ID Selector is used to select element with the **unique** ID name that is having the ID attribute :ship:
+- The ID selector uses the ID attribute in tag to select a specific element :oden:
+- ID name should not be repeated in the document :bell:
 
-- The ID of a element is unique in page , so the id selector is used to select one unique element !
-- To style the element  we start with **( # )** followed by ID name
+- The ID of a element is unique in page , so the id selector is used to select one unique element :exclamation:
+- To style the element  we start with **( # )** followed by ID name :trophy:
 
 <br>
 
 **For ex :-**
 
-- In HTML Document we write
+- In HTML Document we write :pencil2:
 
 ```` html
 <div>
@@ -33,7 +33,7 @@
 </div>
 
 ````
-- In CSS Doc to style that Particular DIV we write as follows
+- In CSS Doc to style that Particular DIV we write as follows :pencil2:
 
 ``` css
 
@@ -46,7 +46,7 @@ This will make the Paragraph tag text color to green
 <br> 
 
 **[Ritesh_Code](Code/Ritesh_WD_ID_Code.md)
-You can check the code in here**
+You can check the code in here** :link:
 
 <br>
 
@@ -66,7 +66,7 @@ You may think that it works for styling like giving same id to different element
 
 **For ex :-**
 
-If I want to modify the text by using ID with the help of ***JAVASCRIPT***
+If I want to modify the text by using ID with the help of ***JAVASCRIPT*** :pencil2:
 
 ```html
 <div>
@@ -74,7 +74,7 @@ If I want to modify the text by using ID with the help of ***JAVASCRIPT***
     <p id="change"> My name is </p>
 </div>
 ```
-Then if I want to change ' my name is ' to ' Ritesh ' then I will write an script
+Then if I want to change ' my name is ' to ' Ritesh ' then I will write an script :pencil2:
 
 ``` html
 <script>
@@ -108,7 +108,7 @@ You can check the code in here**
 
 **For ex :-**
 
-In HTML document we write
+In HTML document we write :pencil2:
 
 ``` html
 <div>
@@ -116,7 +116,7 @@ In HTML document we write
 </div>
 ```
 
-To style this in CSS we write
+To style this in CSS we write :pencil2:
 
 ```css
 .red{
@@ -142,7 +142,7 @@ We can also make it like only specific element should be affected by class
 
 **For ex :-**
 
-In HTML document we write
+In HTML document we write :pencil2:
 
 ``` html
 <div>
@@ -150,7 +150,7 @@ In HTML document we write
     <span class="blue"> Everyone , I am Ritesh </span>
 </div>
 ```
-So in this case if we want to change the color of only 1st element then we will write
+So in this case if we want to change the color of only 1st element then we will write :pencil2:
 
 ``` css
 p.blue{
@@ -175,14 +175,14 @@ Now we will learn to use multiple class for same tag
 
 If we want to change the color and font size of the text so for that 
 
-In HTML document we can write
+In HTML document we can write :pencil2:
 
 ```html
 <div>
     <p class="red size"> Hello Everyone , I am new to Open Source </p>
 </div>
 ```
-The CSS style for this would be
+The CSS style for this would be :pencil2:
 
 ```css
 .red{
