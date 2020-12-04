@@ -17,19 +17,19 @@
 
 # :wrench: ***FLEXBOX*** :wrench:
 
-- It was designed as a one dimensional layout model
+- It was designed as a one dimensional layout model :boat:
 
 ```
 The meaning of flex box as one dimensional it means it deals with layout in one direction at a time -either as a row or coloumn.
 ```
 
-- It provides an more efficient way to align and distribute space among items in the container
+- It provides an more efficient way to align and distribute space among items in the container :pen:
 
 ``` 
 This can be done even when the sizes of the items are unknown or Dynamic ( thus the word FLEX )
 ```
 
-- The idea was to give the container the ability to alter the item's **Width/Height** to best fill the available space 
+- The idea was to give the container the ability to alter the item's **Width/Height** to best fill the available space :frog:
 
 ```
 A flex Container expands items to fill available free space or shrinks them to prevent overflow
@@ -40,11 +40,11 @@ A flex Container expands items to fill available free space or shrinks them to p
 
 # ***BASICS*** :hammer:
 
-Since Flexbox is a whole bunch of module and not an single property . It includes lot of properties , Some of them maybe for Container or the children items
+Since Flexbox is a whole bunch of module and not an single property . It includes lot of properties , Some of them maybe for Container or the children items:pencil2:
 
 <br>
 
-*Items will be laid as follows either the **main axis** ( from main-start to main-end ) or the **cross axis** ( from cross-start to cross-end )*
+*Items will be laid as follows either the **main axis** ( from main-start to main-end ) or the **cross axis** ( from cross-start to cross-end )* :star:
 
 <br>
 
