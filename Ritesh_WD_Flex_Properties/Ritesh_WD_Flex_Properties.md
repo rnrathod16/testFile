@@ -198,7 +198,7 @@ You can check the code in here** :link:
 <br>
 
 
-<a href="https://www.linkedin.com/in/ritesh-rathod-26054a183/" target="_blank"><img src="https://icons8.com/vue-static/landings/animated-icons-new/icons/color/linkedin-circled-shake/linkedin-circled-shake_192.gif"></a>
+<a href="https://www.linkedin.com/in/ritesh-rathod-26054a183/" target="_blank"><img src="https://icons8.com/vue-static/landings/animated-icons-new/icons/color/linkedin-circled-shake/linkedin-circled-shake_192.gif" height="50px" width="50px"></a>
 
 ## ***Thank You For Reading*** :innocent:
 ## ***Hope You Enjoyed it !!!***
