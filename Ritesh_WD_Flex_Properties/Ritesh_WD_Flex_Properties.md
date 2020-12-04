@@ -9,7 +9,7 @@
 
 <br>
 
-## Topic :- :pencil2: So here webwill be looking **FLEXBOX PROPERTIES** :pencil2:
+## Topic :- :pencil2: So here we will be looking **FLEXBOX PROPERTIES** :pencil2:
 
 <br>
 
@@ -18,7 +18,7 @@
 # :wrench: ***PROPERTY FOR PARENT*** :wrench:
 <br>
 
-## *Display Property*
+## *Display Property* :hammer:
 
 <br>
 
@@ -40,7 +40,7 @@ You can check the code in here** :link:
 
 <br>
 
-## *Flex-direction Property*
+## *Flex-direction Property* :star:
 
 <br>
 
@@ -60,7 +60,7 @@ You can check the code in here** :link:
 
 <br>
 
-## *Flex-Wrap Property*
+## *Flex-Wrap Property* :hammer:
 
 <br>
 
@@ -83,7 +83,7 @@ You can check the code in here** :link:
 
 <br>
 
-## *Justify-Content Property*
+## *Justify-Content Property* :star:
 
 <br>
 
@@ -106,7 +106,7 @@ You can check the code in here** :link:
 <br>
 
 
-**[Referance]("https://css-tricks.com/snippets/css/a-guide-to-flexbox/") Checkout this link for more Properties** :link:
+**[Reference](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) Checkout this link for more Properties** :link:
 
 <br>
 
@@ -120,7 +120,7 @@ You can check the code in here** :link:
 <br>
 
 
-## *Order Property*
+## *Order Property* :hammer:
 
 <br>
 
@@ -145,7 +145,7 @@ You can check the code in here** :link:
 <br>
 
 
-## *Flex-Grow Property*
+## *Flex-Grow Property* :star:
 
 <br>
 
@@ -169,7 +169,7 @@ You can check the code in here** :link:
 
 <br>
 
-## *Align-Self Property*
+## *Align-Self Property* :hammer:
 
 <br>
 
@@ -192,7 +192,7 @@ You can check the code in here** :link:
 <br>
 
 
-**[Referance](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) Checkout this link for more Properties** :link:
+**[Reference](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) Checkout this link for more Properties** :link:
 
 <br>
 
