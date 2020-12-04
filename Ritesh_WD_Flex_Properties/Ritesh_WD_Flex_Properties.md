@@ -3,8 +3,9 @@
 <br>
 
 # **I am ***Ritesh Rathod***** :wink:
-### My Social Handel :star:  [Linkedin](https://www.linkedin.com/in/ritesh-rathod-26054a183/) :star:
-### You Can Contact me at rnrathod@mitaoe.ac.in
+### My Social Handel <a href="https://www.linkedin.com/in/ritesh-rathod-26054a183/" target="_blank"><img src="https://icons8.com/vue-static/landings/animated-icons-new/icons/color/linkedin-circled-shake/linkedin-circled-shake_192.gif" height="50px" width="50px"></a>
+
+### You Can Contact me at <a href="mailto:rnrathod16@gmail.com" target="_blank"><img src="https://icons8.com/vue-static/landings/animated-icons-new/icons/color/open-letter/open-letter.gif" height="50px" width="50px"></a>
 
 <br>
 
