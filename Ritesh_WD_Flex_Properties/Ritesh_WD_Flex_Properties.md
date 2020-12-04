@@ -191,7 +191,7 @@ You can check the code in here** :link:
 <br>
 
 
-**[Referance]("https://css-tricks.com/snippets/css/a-guide-to-flexbox/") Checkout this link for more Properties** :link:
+[Referance]("https://css-tricks.com/snippets/css/a-guide-to-flexbox/") Checkout this link for more Properties :link:
 
 <br>
 
