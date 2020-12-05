@@ -20,8 +20,9 @@
 - It was designed as a one dimensional layout model :boat:
 
 ```
-The meaning of flex box as one dimensional it means it deals 
-with layout in one direction at a time -either as a row or coloumn.
+The meaning of flex box as one dimensional 
+it means it deals with layout in one direction
+at a time -either as a row or coloumn.
 ```
 
 - It provides an more efficient way to align and distribute space among items in the container :pen:
@@ -60,14 +61,16 @@ Since Flexbox is a whole bunch of module and not an single property . It include
 ### **main axis :-**  :star:
 ```
 The main axis of flex container is the 
-primary  axis along which the flex items are laid out.
+primary  axis along which the flex items
+are laid out.
 ```
 <br>
 
 ### **main-start | main-end :-** :star:
 ```
 The items are placed within the container 
-starting from main-start and going towards main-end
+starting from main-start and going towards
+main-end
 ```
 <br>
 
@@ -81,14 +84,16 @@ is in the main dimension is item's main size
 ### **cross axis :-**:star:
 ```
 The axis which is perpendicular to main axis is 
-called the cross axis . Its's direction depends on the main axis direction.
+called the cross axis . Its's direction depends
+on the main axis direction.
 ```
 <br>
 
 ### **cross-start | cross-end :-**:star:
 ```
-The items are placed into the container starting on
-the cross-start side of the container and going toward the cross-end side
+The items are placed into the container starting
+on the cross-start side of the container and going
+toward the cross-end side
 ```
 <br>
 
