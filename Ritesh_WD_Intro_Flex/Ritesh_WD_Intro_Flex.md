@@ -20,19 +20,22 @@
 - It was designed as a one dimensional layout model :boat:
 
 ```
-The meaning of flex box as one dimensional it means it deals with layout in one direction at a time -either as a row or coloumn.
+The meaning of flex box as one dimensional it means it deals 
+with layout in one direction at a time -either as a row or coloumn.
 ```
 
 - It provides an more efficient way to align and distribute space among items in the container :pen:
 
 ``` 
-This can be done even when the sizes of the items are unknown or Dynamic ( thus the word FLEX )
+This can be done even when the sizes of 
+the items are unknown or Dynamic ( thus the word FLEX )
 ```
 
 - The idea was to give the container the ability to alter the item's **Width/Height** to best fill the available space :frog:
 
 ```
-A flex Container expands items to fill available free space or shrinks them to prevent overflow
+A flex Container expands items to fill available 
+free space or shrinks them to prevent overflow
 ```
 <br>
 
@@ -56,31 +59,36 @@ Since Flexbox is a whole bunch of module and not an single property . It include
 
 ### **main axis :-**  :star:
 ```
-The main axis of flex container is the primary  axis along which the flex items are laid out.
+The main axis of flex container is the 
+primary  axis along which the flex items are laid out.
 ```
 <br>
 
 ### **main-start | main-end :-** :star:
 ```
-The items are placed within the container starting from main-start and going towards main-end
+The items are placed within the container 
+starting from main-start and going towards main-end
 ```
 <br>
 
 ### **main size :-**:star:
 ```
-The item's Width or Height whichever is in the main dimension is item's main size
+The item's Width or Height whichever 
+is in the main dimension is item's main size
 ```
 <br>
 
 ### **cross axis :-**:star:
 ```
-The axis which is perpendicular to main axis is called the cross axis . Its's direction depends on the main axis direction.
+The axis which is perpendicular to main axis is 
+called the cross axis . Its's direction depends on the main axis direction.
 ```
 <br>
 
 ### **cross-start | cross-end :-**:star:
 ```
-The items are placed into the container starting on the cross-start side of the container and going toward the cross-end side
+The items are placed into the container starting on
+the cross-start side of the container and going toward the cross-end side
 ```
 <br>
 
